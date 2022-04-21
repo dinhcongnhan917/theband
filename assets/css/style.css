@@ -161,7 +161,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('./assets/img/places/place1.jpg') top center / cover no-repeat;
+    background: url('https://github.com/dinhcongnhan917/theband/blob/master/assets/img/slider/slider1.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
